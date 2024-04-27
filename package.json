@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@evilmartians/lefthook": "^1.6.10"
+  }
+}
