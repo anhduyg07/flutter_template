@@ -33,5 +33,4 @@ pre-commit:
 
     dart_lint:
       glob: "*.dart"
-      exclude: "locale_keys.g.dart" # regexp filter
       run: dart fix --dry-run lib/
